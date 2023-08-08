@@ -2,4 +2,4 @@ contenido 123
 
 
 digital-skills-ucb
-contenido referente a la asignatura de Digital Skills
+contenido de la asignatura de Digital Skills
